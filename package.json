@@ -1,0 +1,24 @@
+{
+  "name": "do-pe",
+  "version": "1.0.0",
+  "description": "app en vueJS v2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babel-register": "^6.26.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fabezio/do-pe.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Fabezio/do-pe/issues"
+  },
+  "homepage": "https://github.com/Fabezio/do-pe#readme"
+}
